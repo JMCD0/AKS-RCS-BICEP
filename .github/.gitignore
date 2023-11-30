@@ -1,0 +1,9 @@
+# Ignore certificate and key files
+certs/output/*
+*.crt
+*.key
+*.pfx
+*.pem
+Bicep/AKS/main.bicepparam
+ ../../Green Scheduler[92].pdf
+ /Green Scheduler[92].pdf
